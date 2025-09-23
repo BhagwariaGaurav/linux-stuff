@@ -1,0 +1,3 @@
+Set deny = 0 in /etc/security/failock.conf so you 
+don't get locked out of your machine for mulitple unsuccessful
+authenication attempts
